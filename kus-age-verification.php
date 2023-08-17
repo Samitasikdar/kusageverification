@@ -16,6 +16,5 @@ define('AGE_VERIFICATION_SLUG', 'age-verification');
 
 
 require_once KUS_AGE_VERIFICATION_PATH . '/load.php';
-
 KusAgeVerification::init();
 ?>
